@@ -29,3 +29,12 @@ git add - stage changes for a commit.
 git commit -m "message" - commit staged changes with a message describing the changes.
 git push - push committed changes to a remote repository.
 git pull - fetch and merge changes from a remote repository to your local machine.
+
+python commands
+pip install - to install python packages
+pipenv run python - run python files in pipenv environment
+python - This command launches the Python interpreter in the terminal.
+pip uninstall - To uninstall python packages
+python -m venv directory - This command creates a new virtual environment for Python.
+source <venv>/bin/activate: This command activates a virtual environment. 
+
