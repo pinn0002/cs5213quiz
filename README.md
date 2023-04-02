@@ -23,3 +23,9 @@ scp - copy files between local and remote machines securely.
 tar - create or extract tar archives.
 wget - download files from the internet.
 
+git commands
+git clone - clone a remote Git repository to your local machine.
+git add - stage changes for a commit.
+git commit -m "message" - commit staged changes with a message describing the changes.
+git push - push committed changes to a remote repository.
+git pull - fetch and merge changes from a remote repository to your local machine.
